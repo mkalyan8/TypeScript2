@@ -12,6 +12,7 @@ yjukjl
 /*
     If the function body consists of only statement
     then no need for the curly brackets and the return keyword
+    Hi Friends
 */
 var Add = function (i, j) {
     return i + j;
